@@ -1,0 +1,1 @@
+PyGTK to Tkinter Wrapper runs PyGTK based code unchanged using Tkinter (Tk).

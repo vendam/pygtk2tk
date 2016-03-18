@@ -1,0 +1,28 @@
+# Introduction #
+PyGTK to Tkinter Wrapper
+
+# Supported Classes/Widgets #
+  * GObject
+  * Object
+  * Widget
+  * Container
+  * Bin
+  * Window
+  * Box
+  * HBox
+  * VBox
+  * Table
+  * Button
+  * ToggleButton
+  * CheckButton
+  * RadioButton
+  * Label
+  * Entry
+
+# Examples #
+  * helloworld.py
+  * helloworld2.py
+  * table.py
+  * checkbutton.py
+  * radiobutton.py
+  * entry.py
